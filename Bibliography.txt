@@ -1,0 +1,24 @@
+Bibliography:
+
+image£º
+    icon:          http://www.jiechuangdz.com/data/out/13/501815.jpg
+    red car:       http://www.pngpix.com/wp-content/uploads/2016/03/Car-Top-View-PNG-image.png
+    yellow car:    https://s-media-cache-ak0.pinimg.com/originals/88/7d/98/887d9872643d696f81599530d6e79fc1.png
+    blue car:      https://i.pinimg.com/736x/9c/3d/3e/9c3d3ec5d39bfd74541ac97262dab59d--photoshop-texture-data.jpg
+    police car:    http://community.roll20.net/uploads//FileUpload/32/7abd6ab2e9bf92ae2a397db0db3b1c.png
+    bus:           http://carpng.com/wp-content/uploads/full/school-bus-top-view-36-0.png
+    road:          https://thumbs.dreamstime.com/t/road-top-view-asphalt-highway-line-marks-71209522.jpg
+    explode£º      https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD9C9H71geCNHai3Uw4U7LERijFvoNtEBXUyU971ZTRicFPV8nxg
+    intro£º        http://www.vmagroup.com/wp-content/uploads/2015/12/road.jpg
+    rocket icon:   https://cmkt-image-prd.global.ssl.fastly.net/0.1.0/ps/1120238/1160/772/m1/fpnw/wm0/rocket-launch-flat-icon-01-.jpg?1459011789&s=e0ad13b8feb1be242670fb499ffb356d
+    missile:       http://images.clipartpanda.com/missile-clipart-6cy5pXyri.png
+    beach:         https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/BlvhJFL0ej1qr0fx8/videoblocks-drone-aerial-view-of-ocean-waves-reaching-shore-aerial-view-of-the-tropical-beach-beach-on-top-view-beautiful-beach-clean-beach-turquoise-waves-andaman-sea-thailand_bsc3gfwez_thumbnail-full01.png
+
+sound and music:
+    launch:        http://soundbible.com/1794-Missle-Launch.html
+    crash:         http://soundbible.com/1234-Bomb.html
+    ring:          http://inventwithpython.com/pickup.wav
+The Easy Winner:   http://www.mp3classicalmusic.net/48Music/Joplin48/The%20Easy%20Winners.mp3
+
+
+
